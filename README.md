@@ -1,5 +1,7 @@
 ![PyTorch Logo](https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png)
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/Ashishsonavane/pytorch?utm_source=badge)
+
 --------------------------------------------------------------------------------
 
 PyTorch is a Python package that provides two high-level features:
@@ -242,7 +244,7 @@ git submodule update --init --recursive
 **Common**
 
 ```bash
-# Run this command from the PyTorch directory after cloning the source code using the “Get the PyTorch Source“ section above
+# Run this command from the PyTorch directory after cloning the source code using the "Get the PyTorch Source" section above
 pip install --group dev
 ```
 
